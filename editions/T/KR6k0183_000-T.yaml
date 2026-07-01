@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6k0183/t/v1/juan/0
+seq: 0
+front:
+  text: 翻刻教誡律儀敘諸善律儀佛家之柱石也道品之樓觀禪定之心城皆基于此矣南山大師嘗著行事鈔若于卷廣開毘尼之學風然其文浩瀚望洋難闖故重編此書以誘奘新學文簡義深行相條件提耳指掌可謂至矣牛門正定教院弦我上人捐衣鉢資翻刻之布于世今復欲附其𮝨版于我緣山以施之乎四方一日上人來謀于余余嘉其志重謀諸上座上座允之乃印刷之則字畫鮮明章句精正頗為善本古人曰流通法者莫若於印造吁上人意蓋在于比歟頃日余應諸子之囑講此書因粗攄其引由爾安政戊午春正月緣山南溪圓海撰
+  hash: sha256:b596dc4ff76a4f244b425c414c3501ae09f1b8081dea12b2238a812a042272d2
+  markers:
+  - {type: 序, offset: 0, content: 翻刻教誡律儀敘, id: KR6k0183_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 教誡新學比丘行護律儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1897.xml
+    old_id: T45n1897
+hash: sha256:6b33cf4b331ce765c2d2b030519a11d53300ad0728290694561a04d4d8e0e876

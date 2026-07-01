@@ -1,0 +1,278 @@
+canonical_identifier: bkk:krp/KR6k0183/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0183/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 教誡新學比丘行護律儀
+  identifiers:
+    krp: KR6k0183
+    cbeta: T45n1897
+    cbeta_old_id: T45n1897
+    authorityid: CA0001568
+    json_key: T1897
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1897.xml
+    old_id: T45n1897
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0183_000-T.yaml, hash: 'sha256:6b33cf4b331ce765c2d2b030519a11d53300ad0728290694561a04d4d8e0e876'}
+  - {seq: 1, filename: KR6k0183_001-T.yaml, hash: 'sha256:7370c90be15bb552ef7d458e59fb9a9cd9076e24ae22d0660a8f7ebb09813cfb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0183_000-T.markers.yaml, hash: 'sha256:06fa679eb3df3b342bfa4c2980a0e60cc79a7deb3c58f4d06ff11b824866dd40'}
+  - {seq: 1, role: markers, filename: assets/KR6k0183_001-T.markers.yaml, hash: 'sha256:f0ba355ec2f9a270b7a2cf9768bab88fa1b1aa29613ff8d255345e93d97ba892'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0183_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 翻刻教誡律儀敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6882
+  label: 教誡新學比丘行護律儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-1
+    span:
+    - body
+    - 458
+    - 458
+  label: 1 入寺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-2
+    span:
+    - body
+    - 576
+    - 576
+  label: 2 在師前立法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-3
+    span:
+    - body
+    - 630
+    - 630
+  label: 3 事師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-4
+    span:
+    - body
+    - 1283
+    - 1283
+  label: 4 在寺住法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-5
+    span:
+    - body
+    - 1662
+    - 1662
+  label: 5 在院住法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-6
+    span:
+    - body
+    - 2583
+    - 2583
+  label: 6 在房中住法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-7
+    span:
+    - body
+    - 3026
+    - 3026
+  label: 7 對大己五夏闍梨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-8
+    span:
+    - body
+    - 3288
+    - 3288
+  label: 8 二時食法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-9
+    span:
+    - body
+    - 4521
+    - 4521
+  label: 9 食了出堂法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-10
+    span:
+    - body
+    - 4679
+    - 4679
+  label: 10 洗鉢法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-11
+    span:
+    - body
+    - 4988
+    - 4988
+  label: 11 護鉢法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-12
+    span:
+    - body
+    - 5158
+    - 5158
+  label: 12 入眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-13
+    span:
+    - body
+    - 5279
+    - 5279
+  label: 13 入堂布薩法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-14
+    span:
+    - body
+    - 5302
+    - 5302
+  label: 14 上廁法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-15
+    span:
+    - body
+    - 5619
+    - 5619
+  label: 15 於六時不得語笑法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-16
+    span:
+    - body
+    - 5651
+    - 5651
+  label: 16 入溫室法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-17
+    span:
+    - body
+    - 5847
+    - 5847
+  label: 17 見和尚闍梨得不起法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-18
+    span:
+    - body
+    - 5883
+    - 5883
+  label: 18 見和尚闍梨不得禮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-19
+    span:
+    - body
+    - 5962
+    - 5962
+  label: 19 看和尚闍梨病法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-20
+    span:
+    - body
+    - 6068
+    - 6068
+  label: 20 敬重上座法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-21
+    span:
+    - body
+    - 6262
+    - 6262
+  label: 21 掃地法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-22
+    span:
+    - body
+    - 6343
+    - 6343
+  label: 22 用水缾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0183_T_001-mulu-23
+    span:
+    - body
+    - 6453
+    - 6453
+  label: 23 入聚落法
+  type: mulu
+  level: 1
+hash: sha256:163f324ef0f3e925fe3eb09595b5f57555083a62d6926728d9f35d9bdcf8274a
