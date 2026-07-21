@@ -27,17 +27,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0183_000.yaml, hash: 'sha256:a9730ca5faef8bd3a89b5f7451483e0fb7cbc97d9e02be1704aeea0503dcd0f0'}
+  - {seq: 0, filename: KR6k0183_000.yaml, hash: 'sha256:d035d85e78f35de296bec02931422f4039a1b8599dd81fe80f8d514901599b9b'}
   - {seq: 1, filename: KR6k0183_001.yaml, hash: 'sha256:070c55a0903c2565ef9b333706d3130a4cb5dbedcd48e6d7fa26e9d48133d2bf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0183_000.markers.yaml, hash: 'sha256:3a2a5d39ddf4635a49b544222244b8a3bb0e218b60f0d9f3b230d97a28f32edc'}
+  - {seq: 0, role: markers, filename: assets/KR6k0183_000.markers.yaml, hash: 'sha256:84d64f8bc25c1b2e13100ff848c627a347454849e8951795b871df05c9acfcec'}
   - {seq: 1, role: markers, filename: assets/KR6k0183_001.markers.yaml, hash: 'sha256:9b0946771288b82e935a16f3aba0ced144c1151d4433b046205aa950222c0a93'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0183_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 翻刻教誡律儀敘
@@ -283,7 +283,7 @@ table_of_contents:
   label: 23 入聚落法
   type: mulu
   level: 1
-hash: sha256:9aa1180ff1e5a7a27eb3bf02cb4fc1d36704bc5e3c445df9f4ff434f0ad2c511
+hash: sha256:3f28a3f713ebb49b1bded9185f9759e800021d94004509c57a6bf2347768d31e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

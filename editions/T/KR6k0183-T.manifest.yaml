@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0183_000-T.yaml, hash: 'sha256:6b33cf4b331ce765c2d2b030519a11d53300ad0728290694561a04d4d8e0e876'}
+  - {seq: 0, filename: KR6k0183_000-T.yaml, hash: 'sha256:e1e3bd8ecccd9a4d8a900a245497834d1383fa966a910e5de2864c17e270a5ca'}
   - {seq: 1, filename: KR6k0183_001-T.yaml, hash: 'sha256:7370c90be15bb552ef7d458e59fb9a9cd9076e24ae22d0660a8f7ebb09813cfb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0183_000-T.markers.yaml, hash: 'sha256:06fa679eb3df3b342bfa4c2980a0e60cc79a7deb3c58f4d06ff11b824866dd40'}
+  - {seq: 0, role: markers, filename: assets/KR6k0183_000-T.markers.yaml, hash: 'sha256:923e2037b0de3fea8097bd4618aabb801d173c23f03b28b6350c841d5b017f8a'}
   - {seq: 1, role: markers, filename: assets/KR6k0183_001-T.markers.yaml, hash: 'sha256:f0ba355ec2f9a270b7a2cf9768bab88fa1b1aa29613ff8d255345e93d97ba892'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0183_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 翻刻教誡律儀敘
@@ -275,4 +275,4 @@ table_of_contents:
   label: 23 入聚落法
   type: mulu
   level: 1
-hash: sha256:163f324ef0f3e925fe3eb09595b5f57555083a62d6926728d9f35d9bdcf8274a
+hash: sha256:25e6ceb46dccebd5e5ac9738c6e0fdcafbabdd92831edc6f2f7cb2b6e03a726d
